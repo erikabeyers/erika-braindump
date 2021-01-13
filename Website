@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title></title>
+  <link href="style.css" type="text/css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="header">
+    <img src="ducky.svg" />
+      <img src="ducky.svg" /><img src="ducky.svg" /><img src="ducky.svg" /><img src="ducky.svg" /><img src="ducky.svg" /><img src="ducky.svg" /><img src="ducky.svg" />
+    <h1>Erika Beyers</h1>
+    <p class="about-me">I am a new coder who is learning to specialize in HTML, CSS and Javascript. This is my first ever website and I am very excited to share it with you :) I think this will be the start of something really fun!</p>
+  </div>
+
+  <div class="projects">
+    <h2>Projects</h2>
+    </div>
+  <p class="title">Personal Goals</p>
+  <ul>
+    <li>Design Own Website</li>
+    <li>Invest in Stocks</li>
+    <li>Holiday with Joshua</li>
+    <li>Pass all Modules</li>
+  </ul>
+
+  <p class="title">Movies to Watch</p>
+  <ul>
+    <li>Babyteeth</li>
+    <li>Saint Frances</li>
+  </ul>
+  <div class="contact">
+    <h2>Contact</h2>
+    </div>
+  <p>Find me on <a href="https://twitter.com/erikacbey" target="_blank">Twitter</a>, <a href="https://www.instagram.com/erikabeyers/" target="_blank">Instagram</a>, and <a href="https://www.linkedin.com/in/erika-beyers-3b7310140/" target="_blank">LinkedIn</a>.</p>
+
+  <h6>&copy; Copyright. All Rights Reserved.</h6>
+</body>
+
+</html>
